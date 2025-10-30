@@ -1,0 +1,5 @@
+{
+  "name": "Bodos ToDo Planer",
+  "description": "A powerful task management application that allows you to create and manage nested jobs and to-dos in a hierarchical structure. Track time, set statuses, and organize complex projects with ease.",
+  "requestFramePermissions": []
+}
